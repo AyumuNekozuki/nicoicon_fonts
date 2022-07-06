@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'nicoicon';
-  src:  url('fonts/nicoicon.eot?kq28li');
-  src:  url('fonts/nicoicon.eot?kq28li#iefix') format('embedded-opentype'),
-    url('fonts/nicoicon.ttf?kq28li') format('truetype'),
-    url('fonts/nicoicon.woff?kq28li') format('woff'),
-    url('fonts/nicoicon.svg?kq28li#nicoicon') format('svg');
+  src:  url('nicoicon.eot?kq28li');
+  src:  url('nicoicon.eot?kq28li#iefix') format('embedded-opentype'),
+    url('nicoicon.ttf?kq28li') format('truetype'),
+    url('nicoicon.woff?kq28li') format('woff'),
+    url('nicoicon.svg?kq28li#nicoicon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
